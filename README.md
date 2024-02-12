@@ -11,3 +11,7 @@ This cheat base is made for CS2 (Counter-Strike: 2), this is intended for people
 - [x] Thread safe logging system
 - [x] Proper Injection
 - [ ] Initialize ImGui
+
+# 🎮 Need help?
+Don't hesitate to add me on discord!
+armgladiator
